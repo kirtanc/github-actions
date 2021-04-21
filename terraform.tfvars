@@ -1,0 +1,1 @@
+ami = "ami-081bb417559035fe8" # Amazon Linux 2 AMI (HVM)
